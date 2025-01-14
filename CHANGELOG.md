@@ -1,4 +1,16 @@
 <!-- insertion marker -->
+
+## [2025-01-14]
+- Update badges
+- Merge pull request #554 from yyhhyyyyyy/llm-logic
+
+🐛 fix: fix the LLM logic
+- 🎨 style: format llm.py code
+- 🐛 fix: fix the LLM logic
+- Merge pull request #552 from yyhhyyyyyy/code-cleanup
+
+🎨 style: Format Code
+
 ## [1.1.2](https://github.com/KevinZhang19870314/MoneyPrinterTurbo/releases/tag/1.1.2) - 2024-04-18
 
 <small>[Compare with first commit](https://github.com/KevinZhang19870314/MoneyPrinterTurbo/compare/d4f7b53b841e65da658e3d77822f9923286ddab6...1.1.2)</small>
