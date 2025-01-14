@@ -1,3 +1,8 @@
+![GitHub stars](https://img.shields.io/github/stars/Mizokuiam/MoneyPrinterTurbo)
+![GitHub forks](https://img.shields.io/github/forks/Mizokuiam/MoneyPrinterTurbo)
+![GitHub issues](https://img.shields.io/github/issues/Mizokuiam/MoneyPrinterTurbo)
+![GitHub license](https://img.shields.io/github/license/Mizokuiam/MoneyPrinterTurbo)
+
 <div align="center">
 <h1 align="center">MoneyPrinterTurbo 💸</h1>
 
