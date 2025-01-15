@@ -1,5 +1,9 @@
 # Changelog
 
+## 2025-01-15
+
+- Update CHANGELOG.md (defdc66 by Mizokuiam)
+
 ## 2025-01-14
 
 - Update changelog (d1a27ff by Mizokuiam)
